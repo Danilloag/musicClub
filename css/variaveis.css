@@ -1,0 +1,14 @@
+:root {
+    --big-button-height: 48px;
+    --big-button-width: 48px;
+    --small-button-width: 32px;
+    --small-button-height: 32px;
+    --very-small-button-height: 27px;
+    --background-btn-light: #E0E0E0;
+    --background-btn-dark: #949494;
+    --backgounde-btn-strong-dark: #2e2e2e;
+    --big-button-padding: 12px;
+    --default-border-radius: 4px;
+    --default-background-box: #FFFFFF;
+    --default-border-box: 1px #E0E0E0 solid;
+}
