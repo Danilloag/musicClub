@@ -2,8 +2,7 @@ Projeto de conclusão dos módulos de HTML e CSS.
 
 Requisitos projeto Music Club
 
-Visualizar 
-https://www.figma.com/file/0OD2BCuZeP02G5W8BfgcQD/Untitled?node-id=0%3A1 
+Protótipo no Figma: https://www.figma.com/file/0OD2BCuZeP02G5W8BfgcQD/Untitled?node-id=0%3A1 
 
 Projeto finalizado: https://music-club-umber.vercel.app/
 
